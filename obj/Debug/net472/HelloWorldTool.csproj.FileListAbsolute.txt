@@ -1,0 +1,9 @@
+D:\UnicornOne\HelloWorldTool\bin\Debug\net472\HelloWorldTool.dll
+D:\UnicornOne\HelloWorldTool\bin\Debug\net472\HelloWorldTool.pdb
+D:\UnicornOne\HelloWorldTool\obj\Debug\net472\HelloWorldTool.csproj.AssemblyReference.cache
+D:\UnicornOne\HelloWorldTool\obj\Debug\net472\HelloWorldTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnicornOne\HelloWorldTool\obj\Debug\net472\HelloWorldTool.AssemblyInfoInputs.cache
+D:\UnicornOne\HelloWorldTool\obj\Debug\net472\HelloWorldTool.AssemblyInfo.cs
+D:\UnicornOne\HelloWorldTool\obj\Debug\net472\HelloWorldTool.csproj.CoreCompileInputs.cache
+D:\UnicornOne\HelloWorldTool\obj\Debug\net472\HelloWorldTool.dll
+D:\UnicornOne\HelloWorldTool\obj\Debug\net472\HelloWorldTool.pdb
