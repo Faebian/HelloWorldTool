@@ -1,0 +1,67 @@
+# =========================
+# Visual Studio / VS Code
+# =========================
+
+.vs/
+.vscode/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+# =========================
+# Build outputs
+# =========================
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+x64/
+x86/
+
+artifacts/
+
+
+# =========================
+# .NET / NuGet
+# =========================
+
+*.pdb
+*.cache
+*.log
+
+packages/
+*.nupkg
+*.snupkg
+
+
+# =========================
+# DLLs
+# =========================
+
+# Ignore compiled DLLs generally
+*.dll
+
+# Keep the UnicornOne abstraction required to build the example
+!lib/
+!lib/UnicornOne.Abstractions.dll
+
+
+# =========================
+# OS / temporary files
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
